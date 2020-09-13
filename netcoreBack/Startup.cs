@@ -26,6 +26,12 @@ namespace netcoreBack
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
+            services.AddCors(options => options.AddPolicy("AllowWebApp",
+                  builder => builder.AllowAnyOrigin()
+                  .AllowAnyHeader()
+                  .AllowAnyMethod()
+                  ));
+
             services.AddControllers();
         }
 
@@ -37,6 +43,7 @@ namespace netcoreBack
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors("AllowWebApp");
             app.UseHttpsRedirection();
 
             app.UseRouting();
