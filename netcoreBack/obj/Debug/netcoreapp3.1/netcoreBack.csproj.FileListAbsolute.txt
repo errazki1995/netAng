@@ -48,3 +48,12 @@ C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\bi
 C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\bin\Debug\netcoreapp3.1\netcoreBack.deps.json
+C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\bin\Debug\netcoreapp3.1\netcoreBack.runtimeconfig.json
+C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\bin\Debug\netcoreapp3.1\netcoreBack.runtimeconfig.dev.json
+C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\bin\Debug\netcoreapp3.1\netcoreBack.dll
+C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\bin\Debug\netcoreapp3.1\netcoreBack.pdb
+C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\obj\Debug\netcoreapp3.1\netcoreBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\obj\Debug\netcoreapp3.1\netcoreBack.dll
+C:\Users\ayoub\OneDrive\Desktop\Lab\aspnet\labprojects\netcoreAng\netcoreBack\obj\Debug\netcoreapp3.1\netcoreBack.pdb

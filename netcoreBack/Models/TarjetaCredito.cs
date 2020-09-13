@@ -16,11 +16,16 @@ namespace netcoreBack.Models
         [Required]
         [Column(TypeName="varchar(255)")]
         public string Titular { get; set; }
-    
+
+        [Column(TypeName = "varchar(16)")]
         public string NumeroTarjeta { get; set; }
 
+        [Column(TypeName = "varchar(5)")]
+        public string fechaExpiracion { get; set; }
 
 
+        [Column(TypeName = "varchar(3)")]
+        public string CVV { get; set; }
 
 
     }
